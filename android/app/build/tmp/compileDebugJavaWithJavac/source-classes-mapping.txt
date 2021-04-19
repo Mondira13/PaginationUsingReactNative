@@ -1,0 +1,14 @@
+com/paginationdemo/MainActivity.java
+ com.paginationdemo.MainActivity
+com/paginationdemo/ReactNativeFlipper.java
+ com.paginationdemo.ReactNativeFlipper
+ com.paginationdemo.ReactNativeFlipper$1
+ com.paginationdemo.ReactNativeFlipper$2
+ com.paginationdemo.ReactNativeFlipper$2$1
+com/paginationdemo/BuildConfig.java
+ com.paginationdemo.BuildConfig
+com/paginationdemo/MainApplication.java
+ com.paginationdemo.MainApplication
+ com.paginationdemo.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
